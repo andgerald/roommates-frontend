@@ -43,6 +43,8 @@ En el siguiente enlace podras ver el proyecto:
 https://andgerald.github.io/roommates-frontend/
 
 **Al momento de visualizar la página, es posible una latencia de 60 segundos o más, ya que se está utilizando render para la base de datos.**
+
+**Al momento de visualizar la página, es posible una latencia de 60 segundos o más, ya que se está utilizando render para la base de datos.**
 ## Ejecutando las Pruebas ⚙️
  **Rutas Gastos**
 -  GET: Devuelve el historial con todos los gastos registrados.
